@@ -1,2 +1,0 @@
-lkjlkjlkjlkj
-$\sin(x)$
